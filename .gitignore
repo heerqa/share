@@ -1,0 +1,8 @@
+target/*
+classes
+
+# intellij idea
+.idea/*
+*.iml
+*.ipr
+*.iws
